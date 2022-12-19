@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
     font-size: 18px;
     font-weight: 500;
-    background-color: #DB2512;
+    background-color: skyblue;
     transition: background-color .2s ease;
     cursor: pointer;
     outline: 0;
